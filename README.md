@@ -8,7 +8,6 @@
     This project is essentially to demonstrate the acquried knowledge in html.
     so far covered are the :
        html tag - this is the root tag the encloses all other tags.
-
        head tag - this contain the important information about the webpage, how it displayed. The elements' content in the head is not visible to the user execept the tittle that sits in the address bar of the browser. 
 
        meta tags - this contain the important information like the character set use for the doc, and others like the lang
@@ -22,3 +21,5 @@
        Lists {ordered and unordered list},
 
        Achor tags
+#Deployed
+    <a href="https://mulfranck.github.io/odin-recipes/">Odin recipes</a>
